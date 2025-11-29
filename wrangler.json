@@ -1,0 +1,9 @@
+{
+  "name": "exon-frontend-preview",
+  "compatibility_date": "2025-10-31",
+  "assets": {
+    "directory": "./build",
+    "not_found_handling": "single-page-application"
+  }
+}
+
